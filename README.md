@@ -37,7 +37,7 @@ To get started with the **Files Manager API**, follow these steps:
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/alx-files_manager.git
+    git clone https://github.com/kepo402/alx-files_manager.git
     ```
 
 2. **Navigate to the project directory**:
@@ -72,4 +72,3 @@ To run the server in development mode with live reloading, use the following com
 
 ```bash
 npm run dev
-
